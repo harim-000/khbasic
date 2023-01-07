@@ -44,7 +44,7 @@ public class Basic_01 {  //  Basic_01 클래스의 시작
 		System.out.println
 			("안녕하세요? 자바에 오신 여러분을 환영합니다.");
 		
-		System.out.println("방가방가~~");
+		System.out.println("hello world");
 		
 		System.out.print("D");
 		
