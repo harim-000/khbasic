@@ -42,6 +42,8 @@ public class PracticStar {
 		System.out.println();
 		System.out.println();
 		
+		
+		
 		for(int i = 0; i <= 6; i++)
 		{
 			if(i == 0 || i == 6)
@@ -77,6 +79,9 @@ public class PracticStar {
 			}
 			System.out.println();
 		}
+		
+		System.out.println();
+		System.out.println();
 
 	}
 }
